@@ -1,2 +1,3 @@
 # git-playground
-Test용
+
+Git 재미있다다
